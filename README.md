@@ -2,6 +2,18 @@
 
 A User Interface code of movies review mobile application. Design by Shayna Kit.
 
+<p float="left">
+  <img src="/screenshots/1.png/" height=300>
+  <!-- <p>Gambar 1</p>
+  <nl> -->
+  <img src="/screenshots/2.png/"  height=300>
+  <!-- <p>Gambar 2</p>
+  <nl> -->
+  <img src="/screenshots/3.png/"  height=300>
+  <!-- <p>Gambar 3</p>
+  <nl> -->
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
