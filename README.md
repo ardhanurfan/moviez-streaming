@@ -1,6 +1,6 @@
 # bwa_moviez_streaming
 
-A new Flutter project.
+A User Interface code of movies review mobile application. Design by Shayna Kit.
 
 ## Getting Started
 
